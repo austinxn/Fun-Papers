@@ -1,2 +1,2 @@
-# papers-reproduced
-Reproduced results from interesting papers
+# Interesting Papers
+Reproduced models and/or results from interesting papers
